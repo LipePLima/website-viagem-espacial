@@ -20,9 +20,67 @@ header {
     height: 40px;
 }
 
-#icon-hamburger {
+.btnMobile {
+    position: relative;
+    background-image: url(../img/shared/icon-hamburger.svg);
+    background-color: transparent;
+    border: none;
     width: 24px;
     height: 21px;
+    z-index: 2;
+}
+
+.btnMobile.active {
+    background-image: url(../img/shared/icon-close.svg);
+    width: 19.09px;
+    height: 19.09px;
+    transition: .1s;
+}
+
+#navMenu {
+    display: none;
+    position: absolute;
+    width: 15.875rem;
+    height: 120vh;
+    left: 7.563rem;
+    top: 0px;
+
+    background: rgba(255, 255, 255, 0.04);
+    backdrop-filter: blur(10px);
+    z-index: 1;
+}
+
+.navMenu__div {
+    padding: 7.1rem 0 0 2rem;
+}
+
+.navMenu__div b {
+    font-weight: 700;
+}
+
+#navMenu li {
+    display: flex;
+    align-items: center;
+    margin-bottom: 2rem;
+    height: 2rem;
+}
+
+#navMenu li:hover {
+    border-right: 2px solid #fff;
+}
+
+#navMenu a {
+    font-family: 'Barlow Condensed', sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    letter-spacing: 2.7px;
+    text-decoration: none;
+    color: #fff;
+}
+
+#nav.active #navMenu {
+    display: block;
 }
 
 .container__introduction {
@@ -66,4 +124,9 @@ header {
     height: 150px;
     border-radius: 100%;
     border: none;
+}
+
+.button:hover {
+    box-shadow: 0 0 1em rgba(255, 255, 255, 0.514);
+    transition: all .1s;
 }
