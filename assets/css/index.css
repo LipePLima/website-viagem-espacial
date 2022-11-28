@@ -3,8 +3,14 @@
 @import url('https://fonts.googleapis.com/css2?family=Barlow&display=swap');
 
 body {
-    padding: 0 1.5rem;
     background-image: url(../img/home/background-home-mobile.jpg);
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 100%;
+}
+
+.body {
+    margin: 0 1.5rem;
 }
 
 header {
@@ -30,46 +36,34 @@ header {
     z-index: 2;
 }
 
-.btnMobile.active {
+.btnMobile.active1 {
     background-image: url(../img/shared/icon-close.svg);
     width: 19.09px;
     height: 19.09px;
-    transition: .1s;
+    transition: .2s;
 }
 
 #navMenu {
     display: none;
-    position: absolute;
-    width: 15.875rem;
-    height: 120vh;
-    left: 7.563rem;
-    top: 0px;
-
-    background: rgba(255, 255, 255, 0.04);
-    backdrop-filter: blur(10px);
-    z-index: 1;
 }
 
 .navMenu__div {
     padding: 7.1rem 0 0 2rem;
 }
 
-.navMenu__div b {
-    font-weight: 700;
-}
-
-#navMenu li {
+.active2 {
     display: flex;
     align-items: center;
     margin-bottom: 2rem;
     height: 2rem;
+    transition: none;
 }
 
-#navMenu li:hover {
+.active2:hover {
     border-right: 2px solid #fff;
 }
 
-#navMenu a {
+.active3 {
     font-family: 'Barlow Condensed', sans-serif;
     font-weight: 400;
     font-size: 16px;
@@ -79,8 +73,21 @@ header {
     color: #fff;
 }
 
+.active3 b {
+    font-weight: 700;
+}
+
 #nav.active #navMenu {
     display: block;
+    position: absolute;
+    width: 15.875rem;
+    height: 120vh;
+    left: 7.563rem;
+    top: 0px;
+
+    background: rgba(255, 255, 255, 0.04);
+    backdrop-filter: blur(10px);
+    z-index: 1;
 }
 
 .container__introduction {
