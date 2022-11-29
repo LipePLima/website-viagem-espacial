@@ -35,8 +35,12 @@
         height: 6rem;
     }
 
-    .li:hover {
+    .li:active {
         border-bottom: 3px solid #fff;
+    }
+
+    .li:hover {
+        border-bottom: 3px solid #979797;
     }
 
     .a {
