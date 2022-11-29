@@ -1,5 +1,5 @@
 body {
-    background-image: url(../img/destination/background-destination-mobile.jpg);
+    background-image: url(../../img/destination/background-destination-mobile.jpg);
     background-repeat: no-repeat;
 }
 
@@ -31,7 +31,7 @@ body {
 }
 
 .img__destiny {
-    background-image: url(../img/destination/image-moon-p.png);
+    background-image: url(../../img/destination/image-moon-p.png);
     width: 10.625rem;
     height: 10.625rem;
 }
@@ -59,16 +59,16 @@ body {
     letter-spacing: 2.3625px;
     height: 1.75rem;
     border: none;
+}
+
+.destinyBtn a {
+    text-decoration: none;
     color: #D0D6F9;
 }
 
-.destinyBtn:defined {
+.destinyBtn:hover {
     color: #fff;
     border-bottom: 3px solid #fff;
-}
-
-.destinyBtn:hover {
-    border-bottom: 3px solid #979797;
 }
 
 .subtitle {

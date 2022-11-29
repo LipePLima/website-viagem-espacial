@@ -10,29 +10,29 @@
 
  - Layout mobile:
     - [x] Página inicial;
-    - [ ] Páginas de destino;
+    - [x] Páginas de destino;
       - [x] Lua;
-      - [ ] Marte;
-      - [ ] Europa;
-      - [ ] Titan;
+      - [x] Marte;
+      - [x] Europa;
+      - [x] Titan;
     - [ ] Páginas de equipe;
     - [ ] Páginas de tecnologia;
  - Layout Tablet:
     - [x] Página inicial;
-    - [ ] Páginas de destino;
+    - [x] Páginas de destino;
       - [x] Lua;
-      - [ ] Marte;
-      - [ ] Europa;
-      - [ ] Titan;
+      - [x] Marte;
+      - [x] Europa;
+      - [x] Titan;
     - [ ] Páginas de equipe;
     - [ ] Páginas de tecnologia;
  - Layout desktop:
     - [x] Página inicial;
-    - [ ] Páginas de destino;
+    - [x] Páginas de destino;
       - [x] Lua;
-      - [ ] Marte;
-      - [ ] Europa;
-      - [ ] Titan;
+      - [x] Marte;
+      - [x] Europa;
+      - [x] Titan;
     - [ ] Páginas de equipe;
     - [ ] Páginas de tecnologia;
  - [x] Menu Hamburguer funcional;

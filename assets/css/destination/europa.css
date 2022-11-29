@@ -1,0 +1,19 @@
+.img__destiny {
+    background-image: url(../../img/destination/image-europa-p.png);
+}
+
+@media screen and (min-width: 768px) {
+    .img__destiny {
+        background-image: url(../../img/destination/image-europa-m.png);
+        width: 300px;
+        height: 300px;
+    }
+}
+
+@media screen and (min-width: 1124px) {
+    .img__destiny {
+        background-image: url(../../img/destination/image-europa.png);
+        width: 445px;
+        height: 445px;
+    }
+}

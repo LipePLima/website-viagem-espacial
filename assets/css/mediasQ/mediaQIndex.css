@@ -1,6 +1,6 @@
 @media screen and (min-width: 376px) {
     body {
-        background-image: url(../img/home/background-home-tablet.jpg);
+        background-image: url(../../img/home/background-home-tablet.jpg);
     }
 }
 
@@ -46,7 +46,7 @@
 
 @media screen and (min-width: 769px) {
     body {
-        background-image: url(../img/home/background-home-desktop.jpg);
+        background-image: url(../../img/home/background-home-desktop.jpg);
     }
 
     main {

@@ -1,38 +1,64 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
-  <link rel="icon" type="image/png" sizes="32x32" href="./assets/favicon-32x32.png">
-  
-  <title>Frontend Mentor | Space tourism website</title>
+	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="icon" type="image/png" sizes="32x32" href="assets/img/favicon.ico">
+	<link rel="stylesheet" href="assets/css/reset.css">
+	<link rel="stylesheet" href="assets/css/index.css"> 
+	<link rel="stylesheet" href="assets/css/destination/destination.css"> 
+	<link rel="stylesheet" href="assets/css/mediasQ/mediaQGlobal.css">
+	<link rel="stylesheet" href="assets/css/mediasQ/mediaQDestination.css">
+  <link rel="stylesheet" href="assets/css/destination/europa.css">
+	<title>Destinos - Europa | Turismo Espacial</title>
 </head>
 <body>
-
-  00 Home
-  01 Destination
-  02 Crew
-  03 Technology
-
-  01 Pick your destination
-
-  Moon
-  Mars
-  Europa
-  Titan
-
-  Europa
-
-  The smallest of the four Galilean moons orbiting Jupiter, Europa is a 
-  winter lover’s dream. With an icy surface, it’s perfect for a bit of 
-  ice skating, curling, hockey, or simple relaxation in your snug 
-  wintery cabin.
-
-  Avg. distance
-  628 mil. km
-
-  Est. travel time
-  3 years
-</body>
+	<div class="body">
+		<header>
+			<a href="index.html"><img src="assets/img/shared/logo.svg" alt="Logo" id="logo"></a>
+			<nav id="nav">
+				<button class="btnMobile" id="btnMobile"></button>
+				<ul id="navMenu">
+					<div class="navMenu__div">
+						<li class="li"><a href="index.html" class="a"><b>00</b> Home</a></li>
+						<li class="li"><a href="destination-moon.html" class="a"><b>01</b> Destinos</a></li>
+						<li class="li"><a href="" class="a"><b>02</b> Equipe</a></li>
+						<li class="li"><a href="" class="a"><b>03</b> Tecnologias</a></li>
+					</div>
+				</ul>
+			</nav>
+		</header>
+		<main>
+			<section class="container">
+				<h1 class="title"><b>01</b>Escolha seu destino</h1>
+				<div class="img__destiny"></div>
+			</section>
+			<section class="container__data">
+				<div class="description">
+					<nav class="destinyList">
+						<ul class="destinyList__list">
+							<li class="destiny"><button class="destinyBtn"><a href="destination-moon.html">Lua</a></button></li>
+							<li class="destiny"><button class="destinyBtn"><a href="destination-mars.html">Marte</a></button></li>
+							<li class="destiny"><button class="destinyBtn"><a href="destination-europa.html">Europa</a></button></li>
+							<li class="destiny"><button class="destinyBtn"><a href="destination-titan.html">Titan</a></button></li>
+						</ul>
+					</nav>
+					<h2 class="subtitle">Europa</h2>
+					<p class="text">A menor das quatro luas galileanas que orbitam Júpiter, Europa é o sonho de um amante de inverno. Com uma superfície gelada, é perfeito para um pouco de patinação no gelo, curling, hóquei ou simples relaxamento em sua confortável cabine de inverno.</p>
+				</div>
+				<div class="data">
+					<div class="distance">
+						<p class="data__title">Distância total</p>
+						<p class="data__content">628 MIL. km</p>
+					</div>
+					<div class="duration">
+						<p class="data__title">Tempo de viagem</p>
+						<p class="data__content">3 anos</p>
+					</div>
+				</div>
+			</section>
+		</main>
+	</div>
+	<script src="assets/js/main.js"></script>
 </html>
