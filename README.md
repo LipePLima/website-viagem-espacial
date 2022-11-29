@@ -2,30 +2,27 @@
 
 ## Descrição
 
-Neste formulário interativo de cartão de crédito os usuários devem ser capazes de: 
-
- - Preencher o formulário e ver a atualização dos detalhes do cartão em tempo real
- - Receba mensagens de erro quando o formulário for enviado se:
-   - Qualquer campo de entrada está vazio
-   - O número do cartão, a data de validade ou os campos CVC estão no formato errado
- - Veja o layout ideal, dependendo do tamanho da tela do dispositivo
- - Veja os estados de foco, ativo e de foco para elementos interativos na página
+![Status: em desenvolvimento](https://img.shields.io/badge/STATUS-Em%20desenvolvimento-blue)
 
 ## Etapas
 
  ![Status: em desenvolvimento](https://img.shields.io/badge/STATUS-Em%20desenvolvimento-blue)
 
- - [ ] Layout mobile:
+ - Layout mobile:
     - [x] Página inicial;
     - [ ] Páginas de destino;
+      - [x] Lua;
+      - [ ] Marte;
+      - [ ] Europa;
+      - [ ] Titan;
     - [ ] Páginas de equipe;
     - [ ] Páginas de tecnologia;
- - [ ] Layout Tablet:
+ - Layout Tablet:
     - [ ] Página inicial;
     - [ ] Páginas de destino;
     - [ ] Páginas de equipe;
     - [ ] Páginas de tecnologia;
- - [ ] Layout desktop:
+ - Layout desktop:
     - [ ] Página inicial;
     - [ ] Páginas de destino;
     - [ ] Páginas de equipe;
@@ -40,6 +37,8 @@ Neste formulário interativo de cartão de crédito os usuários devem ser capaz
 ## Imagens
 
 <h3> :camera: Página inicial </h3>
+
+ ![Status: em desenvolvimento](https://img.shields.io/badge/STATUS-Em%20desenvolvimento-blue)
 
 ## Depoimento
 

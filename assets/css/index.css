@@ -135,5 +135,11 @@ header {
 
 .button:hover {
     box-shadow: 0 0 1em rgba(255, 255, 255, 0.514);
-    transition: all .1s;
+    transition: .1s;
+}
+
+@media screen and (min-width: 376px) {
+    body {
+        background-image: url(../img/home/background-home-tablet.jpg);
+    }
 }
