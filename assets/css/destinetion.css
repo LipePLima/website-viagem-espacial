@@ -62,9 +62,13 @@ body {
     color: #D0D6F9;
 }
 
-.destinyBtn:hover {
+.destinyBtn:defined {
     color: #fff;
     border-bottom: 3px solid #fff;
+}
+
+.destinyBtn:hover {
+    border-bottom: 3px solid #979797;
 }
 
 .subtitle {

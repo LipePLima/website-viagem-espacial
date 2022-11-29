@@ -18,7 +18,7 @@
     - [ ] Páginas de equipe;
     - [ ] Páginas de tecnologia;
  - Layout Tablet:
-    - [ ] Página inicial;
+    - [x] Página inicial;
     - [ ] Páginas de destino;
       - [x] Lua;
       - [ ] Marte;
@@ -27,7 +27,7 @@
     - [ ] Páginas de equipe;
     - [ ] Páginas de tecnologia;
  - Layout desktop:
-    - [ ] Página inicial;
+    - [x] Página inicial;
     - [ ] Páginas de destino;
       - [x] Lua;
       - [ ] Marte;

@@ -1,0 +1,99 @@
+@media screen and (min-width: 376px) {
+    body {
+        background-image: url(../img/home/background-home-tablet.jpg);
+    }
+}
+
+@media screen and (min-width: 625px) {
+    .container__introduction {
+        margin-top: 6.625rem;
+    }
+
+    .subtitle {
+        font-weight: 400;
+        font-size: 20px;
+    }
+
+    .title {
+        font-weight: 400;
+        font-size: 150px;
+        line-height: 150px;
+        padding: 2.5rem;
+    }
+
+    .description {
+        font-weight: 400;
+        font-size: 18px;
+        line-height: 28px;
+    }
+
+    .container__button {
+        margin: 6rem 0 3rem 0;
+    }
+
+    .button {
+        width: 242px;
+        height: 242px;
+        padding: 0;
+        margin-bottom: 50px;
+    }
+
+    .button:hover {
+        outline: 40px solid #9797972a;
+        cursor: pointer;
+    }
+}
+
+@media screen and (min-width: 769px) {
+    body {
+        background-image: url(../img/home/background-home-desktop.jpg);
+    }
+
+    main {
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+    }
+
+    .container__introduction {
+        width: 28.125rem;
+        margin-bottom: 2rem;
+    }
+
+    .title {
+        padding: 2.5rem 0;
+    }
+
+    .container__button {
+        margin-top: 6.625rem;
+    }
+}
+
+@media screen and (min-width: 1124px) {
+    .container__introduction {
+        width: 35.457rem;
+        margin: 15.688rem 0 8.188rem 0;
+    }
+
+    .subtitle {
+        width: 35.457rem;
+        text-align: left;
+    }
+
+    .title {
+        text-align: left;
+    }
+
+    .description {
+        text-align: left;
+    }
+
+    .container__button {
+        margin: 18rem 0 0 0;
+    }
+
+    .button {
+        margin: 0;
+    }
+
+}
