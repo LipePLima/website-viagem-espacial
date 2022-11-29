@@ -80,9 +80,9 @@ header {
 #nav.active #navMenu {
     display: block;
     position: absolute;
-    width: 15.875rem;
-    height: 120vh;
-    left: 7.563rem;
+    width: calc(100% - 9rem);
+    height: 148%;
+    left: 9rem;
     top: 0px;
 
     background: rgba(255, 255, 255, 0.04);
@@ -127,15 +127,14 @@ header {
     font-family: 'Bellefair', serif;
     font-size: 20px;
     text-transform: uppercase;
-    width: 150px;
-    height: 150px;
+    width: 9.375rem;
+    height: 9.375rem;
     border-radius: 100%;
     border: none;
 }
 
-.button:hover {
+.button:active {
     box-shadow: 0 0 1em rgba(255, 255, 255, 0.514);
-    transition: .1s;
 }
 
 @media screen and (min-width: 376px) {

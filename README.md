@@ -20,11 +20,19 @@
  - Layout Tablet:
     - [ ] Página inicial;
     - [ ] Páginas de destino;
+      - [x] Lua;
+      - [ ] Marte;
+      - [ ] Europa;
+      - [ ] Titan;
     - [ ] Páginas de equipe;
     - [ ] Páginas de tecnologia;
  - Layout desktop:
     - [ ] Página inicial;
     - [ ] Páginas de destino;
+      - [x] Lua;
+      - [ ] Marte;
+      - [ ] Europa;
+      - [ ] Titan;
     - [ ] Páginas de equipe;
     - [ ] Páginas de tecnologia;
  - [x] Menu Hamburguer funcional;
