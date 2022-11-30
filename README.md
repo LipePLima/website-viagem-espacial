@@ -17,6 +17,9 @@
       - [x] Titan;
     - [ ] Páginas de equipe;
     - [ ] Páginas de tecnologia;
+      - [x] Veículo;
+      - [ ] Estação Espacial;
+      - [ ] Cápsula;
  - Layout Tablet:
     - [x] Página inicial;
     - [x] Páginas de destino;
@@ -26,6 +29,9 @@
       - [x] Titan;
     - [ ] Páginas de equipe;
     - [ ] Páginas de tecnologia;
+      - [x] Veículo;
+      - [ ] Estação Espacial;
+      - [ ] Cápsula;
  - Layout desktop:
     - [x] Página inicial;
     - [x] Páginas de destino;
@@ -35,6 +41,9 @@
       - [x] Titan;
     - [ ] Páginas de equipe;
     - [ ] Páginas de tecnologia;
+      - [ ] Veículo;
+      - [ ] Estação Espacial;
+      - [ ] Cápsula;
  - [x] Menu Hamburguer funcional;
  - [ ] Manipulação de Json para inserir os dados de destino, equipe e tecnologia;
 

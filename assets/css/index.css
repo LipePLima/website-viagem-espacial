@@ -80,7 +80,7 @@ header {
     display: block;
     position: absolute;
     width: calc(100% - 9rem);
-    height: 148%;
+    height: 100%;
     left: 9rem;
     top: 0px;
 
