@@ -29,6 +29,7 @@
       - [x] Europa;
       - [x] Titan;
     - [ ] Páginas de equipe;
+      - [x] Comandante;
     - [ ] Páginas de tecnologia;
       - [x] Veículo;
       - [ ] Estação Espacial;
@@ -41,6 +42,7 @@
       - [x] Europa;
       - [x] Titan;
     - [ ] Páginas de equipe;
+      - [x] Comandante;
     - [ ] Páginas de tecnologia;
       - [x] Veículo;
       - [ ] Estação Espacial;

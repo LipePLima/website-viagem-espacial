@@ -30,10 +30,15 @@ main {
     width: 100vw;
     height: 222px;
     margin: 2rem 0;
-    background-image: url(../../img/crew/image-douglas-hurley-p.png);
-    background-repeat: no-repeat;
-    background-position: center center;
     border-bottom: 1px solid #383B4B;
+}
+
+#img__m {
+    display: none;
+}
+
+#img__g {
+    display: none;
 }
 
 .container__btns {
