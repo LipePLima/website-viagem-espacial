@@ -41,12 +41,42 @@
     }
 }
 
-@media screen and (min-width: 769px) {
+@media screen and (min-width: 790px) {
     body {
         background-image: url(../../img/technology/background-technology-desktop.jpg);
     }
 
+    .conteiner__content {
+        position: relative;
+        left: -1.5rem;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        width: 100vw;
+    }
+
     .container__img {
         background-image: url(../../img/technology/image-launch-vehicle-portrait.jpg);
+        left: 0;
+        width: 32.188rem;
+        height: 32.938rem;
+        order: 2;
+    }
+
+    .container__text {
+        display: flex;
+        width: 925px;
+    }
+
+    .container__btns {
+        flex-direction: column;
+        justify-content: space-between;
+        align-items: center;
+        height: 19rem;
+    }
+
+    .content__btn {
+        width: 80px;
+        height: 80px;
     }
 }
