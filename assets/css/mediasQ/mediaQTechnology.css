@@ -44,6 +44,12 @@
 @media screen and (min-width: 790px) {
     body {
         background-image: url(../../img/technology/background-technology-desktop.jpg);
+        width: 100%;
+    }
+
+    .content__title {
+        display: flex;
+        padding-left: calc(45rem/2);
     }
 
     .conteiner__content {
@@ -52,7 +58,7 @@
         display: flex;
         justify-content: space-between;
         align-items: center;
-        width: 100vw;
+        width: calc(100% + 3rem);
     }
 
     .container__img {
@@ -65,7 +71,7 @@
 
     .container__text {
         display: flex;
-        width: 925px;
+        width: 57.813rem;
     }
 
     .container__btns {
