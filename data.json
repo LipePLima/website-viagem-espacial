@@ -1,7 +1,7 @@
 {
   "destinations": [
     {
-      "name": "Moon",
+      "name": "Lua",
       "images": {
         "png": "assets/img/destination/image-moon.png",
         "webp": "./assets/destination/image-moon.webp"
@@ -11,14 +11,14 @@
       "travel": "3 dias"
     },
     {
-      "name": "Mars",
+      "name": "Marte",
       "images": {
         "png": "./assets/destination/image-mars.png",
         "webp": "./assets/destination/image-mars.webp"
       },
-      "description": "Don’t forget to pack your hiking boots. You’ll need them to tackle Olympus Mons, the tallest planetary mountain in our solar system. It’s two and a half times the size of Everest!",
-      "distance": "225 mil. km",
-      "travel": "9 months"
+      "description": "Não se esqueça de levar suas botas de caminhada. Você precisará deles para enfrentar o Monte Olimpo, a montanha planetária mais alta do nosso sistema solar. É duas vezes e meia o tamanho do Everest!",
+      "distance": "225 MIL. km",
+      "travel": "9 Meses"
     },
     {
       "name": "Europa",
@@ -26,9 +26,9 @@
         "png": "./assets/destination/image-europa.png",
         "webp": "./assets/destination/image-europa.webp"
       },
-      "description": "The smallest of the four Galilean moons orbiting Jupiter, Europa is a winter lover’s dream. With an icy surface, it’s perfect for a bit of ice skating, curling, hockey, or simple relaxation in your snug wintery cabin.",
+      "description": "A menor das quatro luas galileanas que orbitam Júpiter, Europa é o sonho de um amante de inverno. Com uma superfície gelada, é perfeito para um pouco de patinação no gelo, curling, hóquei ou simples relaxamento em sua confortável cabine de inverno.",
       "distance": "628 mil. km",
-      "travel": "3 years"
+      "travel": "3 Anos"
     },
     {
       "name": "Titan",
@@ -36,9 +36,9 @@
         "png": "./assets/destination/image-titan.png",
         "webp": "./assets/destination/image-titan.webp"
       },
-      "description": "The only moon known to have a dense atmosphere other than Earth, Titan is a home away from home (just a few hundred degrees colder!). As a bonus, you get striking views of the Rings of Saturn.",
+      "description": "A única lua conhecida por ter uma atmosfera densa além da Terra, Titã é uma casa longe de casa (apenas algumas centenas de graus mais fria!). Como bônus, você tem vistas impressionantes dos Anéis de Saturno.",
       "distance": "1.6 bil. km",
-      "travel": "7 years"
+      "travel": "7 Anos"
     }
   ],
   

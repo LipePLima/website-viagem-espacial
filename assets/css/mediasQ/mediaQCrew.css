@@ -20,6 +20,7 @@
         justify-content: center;
         height: 532px;
         margin: 2rem 0 0 0;
+        border: none;
         order: 1;
     }
 
@@ -69,6 +70,25 @@
         width: 100%;
     }
 
+    .container__img {
+        position: relative;
+        top: -100px;     
+    }
+
+    #img__g {
+        width: 568.07px;
+        height: 712px;
+    }
+
+    .container__title {
+        width: 35rem;
+        padding-left: 10rem;
+    }
+
+    .content__title {
+        text-align: left;
+    }
+
     .conteiner__content {
         flex-direction: row;
     }
@@ -88,10 +108,14 @@
     .container__text {
         justify-content: center;   
         align-items: left;
-        padding-left: 10.375rem;
+        padding-left: 10rem;
     }
 
-    .content__subtitle, .content__name, .content__text {
+    .content__subtitle, .content__name {
+        text-align: left;
+    }
+
+    .content__text {
         text-align: left;
         padding: 0 15rem 0 0;
     }
