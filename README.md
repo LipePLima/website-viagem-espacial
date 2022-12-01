@@ -16,6 +16,7 @@
       - [x] Europa;
       - [x] Titan;
     - [ ] Páginas de equipe;
+      - [x] Comandante;
     - [ ] Páginas de tecnologia;
       - [x] Veículo;
       - [ ] Estação Espacial;
@@ -41,7 +42,7 @@
       - [x] Titan;
     - [ ] Páginas de equipe;
     - [ ] Páginas de tecnologia;
-      - [ ] Veículo;
+      - [x] Veículo;
       - [ ] Estação Espacial;
       - [ ] Cápsula;
  - [x] Menu Hamburguer funcional;

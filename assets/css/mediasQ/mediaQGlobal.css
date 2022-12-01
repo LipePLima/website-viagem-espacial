@@ -13,7 +13,7 @@
     }
 
     #logo {
-        padding-left: 1rem;
+        padding-left: 2.5rem;
     }
 
     .btnMobile {
@@ -71,10 +71,24 @@
 
 @media screen and (min-width: 1124px) {
     header {
-        width: 101.7%;
+        position: relative;
+        left: -1.5rem;
+        width: calc(100% + 3rem);
         margin-top: 2.5rem;
     }
+
+    #logo {
+        padding-left: 3.438rem;
+    }
     
+    .line {
+        position: absolute;
+        background-color: #ffffff25;
+        width: 473px;
+        height: 1px;
+        margin-left: 11.5rem;
+    }
+
     #navMenu {
         width: 51.875rem;
         background: rgba(255, 255, 255, 0.04);
