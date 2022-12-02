@@ -58,14 +58,16 @@ body {
     letter-spacing: 2.3625px;
     height: 1.75rem;
     border: none;
-}
-
-.destinyBtn a {
-    text-decoration: none;
     color: #D0D6F9;
+    cursor: pointer;
 }
 
 .destinyBtn:hover {
+    color: rgba(255, 255, 255, 0.5);
+    border-bottom: 3px solid rgba(255, 255, 255, 0.5);
+}
+
+.active {
     color: #fff;
     border-bottom: 3px solid #fff;
 }

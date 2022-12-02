@@ -48,7 +48,9 @@
       - [ ] Estação Espacial;
       - [ ] Cápsula;
  - [x] Menu Hamburguer funcional;
- - [ ] Manipulação de Json para inserir os dados de destino, equipe e tecnologia;
+ - [x] Manipulação de Json para inserir os dados de destino;
+ - [ ] Manipulação de Json para inserir os dados de equipe;
+ - [ ] Manipulação de Json para inserir os dados de tecnologia;
 
 ## Tecnologias
 

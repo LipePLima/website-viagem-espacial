@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="pt-br">
 <head>
 	<meta charset="UTF-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -10,20 +10,21 @@
 	<link rel="stylesheet" href="assets/css/destination/destination.css"> 
 	<link rel="stylesheet" href="assets/css/mediasQ/mediaQGlobal.css">
 	<link rel="stylesheet" href="assets/css/mediasQ/mediaQDestination.css">
-  	<link rel="stylesheet" href="assets/css/destination/mars.css">
-	<title>Destinos - Marte | Turismo Espacial</title>
+	<link rel="stylesheet" id="destination" href="assets/css/destination/moon.css">
+	<title>Turismo Espacial | Destinos - Lua</title>
 </head>
 <body>
 	<div class="body">
 		<header>
 			<a href="index.html"><img src="assets/img/shared/logo.svg" alt="Logo" id="logo"></a>
+			<div class="line"></div>
 			<nav id="nav">
 				<button class="btnMobile" id="btnMobile"></button>
 				<ul id="navMenu">
 					<div class="navMenu__div">
 						<li class="li"><a href="index.html" class="a"><b>00</b> Home</a></li>
 						<li class="li"><a href="destination-moon.html" class="a"><b>01</b> Destinos</a></li>
-						<li class="li"><a href="" class="a"><b>02</b> Equipe</a></li>
+						<li class="li"><a href="crew-commander.html" class="a"><b>02</b> Equipe</a></li>
 						<li class="li"><a href="technology-vehicle.html" class="a"><b>03</b> Tecnologias</a></li>
 					</div>
 				</ul>
@@ -38,27 +39,28 @@
 				<div class="description">
 					<nav class="destinyList">
 						<ul class="destinyList__list">
-							<li class="destiny"><button class="destinyBtn"><a href="destination-moon.html">Lua</a></button></li>
-							<li class="destiny"><button class="destinyBtn"><a href="destination-mars.html">Marte</a></button></li>
-							<li class="destiny"><button class="destinyBtn"><a href="destination-europa.html">Europa</a></button></li>
-							<li class="destiny"><button class="destinyBtn"><a href="destination-titan.html">Titan</a></button></li>
+							<li class="destiny"><button class="destinyBtn" id="moon">Lua</button></li>
+							<li class="destiny"><button class="destinyBtn" id="mars">Marte</button></li>
+							<li class="destiny"><button class="destinyBtn" id="europa">Europa</button></li>
+							<li class="destiny"><button class="destinyBtn" id="titan">Titan</button></li>
 						</ul>
 					</nav>
-					<h2 class="subtitle">Marte</h2>
-					<p class="text">Não se esqueça de levar suas botas de caminhada. Você precisará deles para enfrentar o Monte Olimpo, a montanha planetária mais alta do nosso sistema solar. É duas vezes e meia o tamanho do Everest!</p>
+					<h2 class="subtitle" id="name">Lua</h2>
+					<p class="text" id="text">Veja o nosso planeta como você nunca o viu antes. Uma viagem relaxante perfeita para ajudar a recuperar a perspectiva e voltar revigorado. Enquanto estiver lá, aprecie um pouco de história visitando os locais de pouso da Luna 2 e da Apollo 11.</p>
 				</div>
 				<div class="data">
 					<div class="distance">
 						<p class="data__title">Distância total</p>
-						<p class="data__content">225 MIL. km</p>
+						<p class="data__content" id="distance">384,400 KM</p>
 					</div>
 					<div class="duration">
 						<p class="data__title">Tempo de viagem</p>
-						<p class="data__content">9 Meses</p>
+						<p class="data__content" id="time">3 dias</p>
 					</div>
 				</div>
 			</section>
 		</main>
 	</div>
 	<script src="assets/js/main.js"></script>
+	<script src="assets/js/destination.js"></script>
 </html>
