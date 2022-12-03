@@ -15,8 +15,11 @@
       - [x] Marte;
       - [x] Europa;
       - [x] Titan;
-    - [ ] Páginas de equipe;
+    - [x] Páginas de equipe;
       - [x] Comandante;
+      - [x] Especialista;
+      - [x] Piloto;
+      - [x] Engenheira;
     - [ ] Páginas de tecnologia;
       - [x] Veículo;
       - [ ] Estação Espacial;
@@ -28,8 +31,11 @@
       - [x] Marte;
       - [x] Europa;
       - [x] Titan;
-    - [ ] Páginas de equipe;
+    - [x] Páginas de equipe;
       - [x] Comandante;
+      - [x] Especialista;
+      - [x] Piloto;
+      - [x] Engenheira;
     - [ ] Páginas de tecnologia;
       - [x] Veículo;
       - [ ] Estação Espacial;
@@ -41,15 +47,18 @@
       - [x] Marte;
       - [x] Europa;
       - [x] Titan;
-    - [ ] Páginas de equipe;
+    - [x] Páginas de equipe;
       - [x] Comandante;
+      - [x] Especialista;
+      - [x] Piloto;
+      - [x] Engenheira;
     - [ ] Páginas de tecnologia;
       - [x] Veículo;
       - [ ] Estação Espacial;
       - [ ] Cápsula;
  - [x] Menu Hamburguer funcional;
  - [x] Manipulação de Json para inserir os dados de destino;
- - [ ] Manipulação de Json para inserir os dados de equipe;
+ - [x] Manipulação de Json para inserir os dados de equipe;
  - [ ] Manipulação de Json para inserir os dados de tecnologia;
 
 ## Tecnologias

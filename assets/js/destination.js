@@ -1,6 +1,6 @@
-const json = fetch("../../../data.json").then(response => response.json()).then(data => dataJson(data))
+fetch("../../../data.json").then(response => response.json()).then(data => dataDestiny(data))
 
-function dataJson (data) {
+function dataDestiny (data) {
     const list = [
         {
             btn: document.querySelector('#moon'),

@@ -49,8 +49,8 @@
         "png": "./assets/crew/image-douglas-hurley.png",
         "webp": "./assets/crew/image-douglas-hurley.webp"
       },
-      "role": "Commander",
-      "bio": "Douglas Gerald Hurley is an American engineer, former Marine Corps pilot and former NASA astronaut. He launched into space for the third time as commander of Crew Dragon Demo-2."
+      "role": "Comandante",
+      "bio": "Douglas Gerald Hurley é um engenheiro americano, ex-piloto do Corpo de Fuzileiros Navais e ex-astronauta da NASA. Ele foi lançado ao espaço pela terceira vez como comandante da Crew Dragon Demo-2."
     },
     {
       "name": "Mark Shuttleworth",

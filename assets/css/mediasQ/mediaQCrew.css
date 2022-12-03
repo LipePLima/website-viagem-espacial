@@ -24,15 +24,15 @@
         order: 1;
     }
 
-    #img__p {
+    .img__p {
         display: none;
     }
     
-    #img__m {
+    .img__m {
         display: block;
     }
     
-    #img__g {
+    .img__g {
         display: none;
     }
 
@@ -75,7 +75,8 @@
         top: -100px;     
     }
 
-    #img__g {
+    .img__g {
+        display: block;
         width: 568.07px;
         height: 712px;
     }
@@ -93,16 +94,12 @@
         flex-direction: row;
     }
 
-    #img__p {
+    .img__p {
         display: none;
     }
     
-    #img__m {
+    .img__m {
         display: none;
-    }
-    
-    #img__g {
-        display: block;
     }
 
     .container__text {

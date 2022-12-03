@@ -33,11 +33,15 @@ main {
     border-bottom: 1px solid #383B4B;
 }
 
-#img__m {
+.img__m {
     display: none;
 }
 
-#img__g {
+.img__g {
+    display: none;
+}
+
+.disable {
     display: none;
 }
 
@@ -56,7 +60,7 @@ main {
     background-color: rgba(255, 255, 255, 0.17);
 }
 
-.content__btn:active {
+.active {
     background-color: #fff;
 }
 
