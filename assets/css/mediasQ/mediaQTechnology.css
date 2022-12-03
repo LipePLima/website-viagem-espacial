@@ -2,10 +2,6 @@
     body {
         background-image: url(../../img/technology/background-technology-tablet.jpg);
     }
-
-    .container__img {
-        background-image: url(../../img/technology/image-launch-vehicle-landscape.jpg);
-    }
 }
 
 @media screen and (min-width: 548px) {
@@ -62,7 +58,6 @@
     }
 
     .container__img {
-        background-image: url(../../img/technology/image-launch-vehicle-portrait.jpg);
         left: 0;
         width: 32.188rem;
         height: 32.938rem;

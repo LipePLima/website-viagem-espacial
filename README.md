@@ -20,10 +20,10 @@
       - [x] Especialista;
       - [x] Piloto;
       - [x] Engenheira;
-    - [ ] Páginas de tecnologia;
+    - [x] Páginas de tecnologia;
       - [x] Veículo;
-      - [ ] Estação Espacial;
-      - [ ] Cápsula;
+      - [x] Estação Espacial;
+      - [x] Cápsula;
  - Layout Tablet:
     - [x] Página inicial;
     - [x] Páginas de destino;
@@ -36,10 +36,10 @@
       - [x] Especialista;
       - [x] Piloto;
       - [x] Engenheira;
-    - [ ] Páginas de tecnologia;
+    - [x] Páginas de tecnologia;
       - [x] Veículo;
-      - [ ] Estação Espacial;
-      - [ ] Cápsula;
+      - [x] Estação Espacial;
+      - [x] Cápsula;
  - Layout desktop:
     - [x] Página inicial;
     - [x] Páginas de destino;
@@ -52,14 +52,15 @@
       - [x] Especialista;
       - [x] Piloto;
       - [x] Engenheira;
-    - [ ] Páginas de tecnologia;
+    - [x] Páginas de tecnologia;
       - [x] Veículo;
-      - [ ] Estação Espacial;
-      - [ ] Cápsula;
+      - [x] Estação Espacial;
+      - [x] Cápsula;
  - [x] Menu Hamburguer funcional;
  - [x] Manipulação de Json para inserir os dados de destino;
  - [x] Manipulação de Json para inserir os dados de equipe;
- - [ ] Manipulação de Json para inserir os dados de tecnologia;
+ - [x] Manipulação de Json para inserir os dados de tecnologia;
+ - [ ] Swiper na página da Equipe;
 
 ## Tecnologias
 

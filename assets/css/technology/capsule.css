@@ -1,0 +1,15 @@
+.container__img {
+    background-image: url(../../img/technology/image-space-capsule-landscape-p.jpg);
+}
+
+@media screen and (min-width: 376px) {
+    .container__img {
+        background-image: url(../../img/technology/image-space-capsule-landscape-m.jpg);
+    }
+}
+
+@media screen and (min-width: 790px) {
+    .container__img {
+        background-image: url(../../img/technology/image-space-capsule-portrait.jpg);
+    }
+}

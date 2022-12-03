@@ -6,7 +6,8 @@
   <link rel="icon" type="image/png" sizes="32x32" href="assets/img/favicon.ico">
   <link rel="stylesheet" href="assets/css/reset.css">
   <link rel="stylesheet" href="assets/css/index.css">
-  <link rel="stylesheet" href="assets/css/technology/vehicle.css">
+  <link rel="stylesheet" href="assets/css/technology/tech.css">
+  <link rel="stylesheet" id="tech" href="assets/css/technology/vehicle.css">
   <link rel="stylesheet" href="assets/css/mediasQ/mediaQGlobal.css">
   <link rel="stylesheet" href="assets/css/mediasQ/mediaQTechnology.css">
   <title>Turismo Espacial | Tecnologias - Veículos</title>
@@ -20,10 +21,10 @@
         <button class="btnMobile" id="btnMobile"></button>
         <ul id="navMenu">
           <div class="navMenu__div">
-            <li class="li"><a href="index.html" class="a"><b>00</b> Home</a></li>
-            <li class="li"><a href="destination.html" class="a"><b>01</b> Destinos</a></li>
-            <li class="li"><a href="crew-commander.html" class="a"><b>02</b> Equipe</a></li>
-            <li class="li"><a href="technology-vehicle.html" class="a"><b>03</b> Tecnologias</a></li>
+            <li class="li" id="home"><a href="index.html" class="a"><b>00</b> Home</a></li>
+						<li class="li" id="destinos"><a href="destination.html" class="a"><b>01</b> Destinos</a></li>
+						<li class="li" id="Equipe"><a href="crew.html" class="a"><b>02</b> Equipe</a></li>
+						<li class="li activeNav" id="Tecnologias"><a href="technology.html" class="a"><b>03</b> Tecnologias</a></li>
           </div>
         </ul>
       </nav>
@@ -36,14 +37,14 @@
         <div class="container__img"></div>
         <div class="container__text">
           <ul class="container__btns">
-            <li><button class="content__btn">1</button></li>
+            <li><button class="content__btn" id="btn0">1</button></li>
             <li><button class="content__btn" id="btn">2</button></li>
-            <li><button class="content__btn">3</button></li>
+            <li><button class="content__btn" id="btn1">3</button></li>
           </ul>
           <div>
             <h2 class="content__subtitle">A terminologia</h2>
-            <h1 class="content__name">Veículo de lançamento</h1>
-            <p class="content__text">Um veículo de lançamento ou foguete transportador é um veículo movido a foguete usado para transportar uma carga útil da superfície da Terra para o espaço, geralmente para a órbita da Terra ou além. Nosso foguete transportador WEB-X é o mais poderoso em operação. Com 150 metros de altura, é uma visão inspiradora na plataforma de lançamento!</p>
+            <h1 class="content__name" id="name">Veículo de lançamento</h1>
+            <p class="content__text" id="text">Um veículo de lançamento ou foguete transportador é um veículo movido a foguete usado para transportar uma carga útil da superfície da Terra para o espaço, geralmente para a órbita da Terra ou além. Nosso foguete transportador WEB-X é o mais poderoso em operação. Com 150 metros de altura, é uma visão inspiradora na plataforma de lançamento!</p>
           </div>
         </div>
       </section>

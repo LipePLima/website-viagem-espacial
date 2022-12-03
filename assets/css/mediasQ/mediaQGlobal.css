@@ -45,7 +45,7 @@
         height: 6rem;
     }
 
-    .li:active {
+    .activeNav {
         border-bottom: 3px solid #fff;
     }
 

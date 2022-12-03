@@ -1,103 +1,16 @@
-body {
-    background-image: url(../../img/technology/background-technology-mobile.jpg);
-    background-repeat: no-repeat;
-    width: 100vw;
-}
-
-main {
-    text-align: center;
-    color: #fff;
-}
-
-.content__title {
-    margin-top: 1.5rem;
-    font-family: 'Barlow Condensed', sans-serif;
-    font-weight: 400;
-    font-size: 16px;
-    line-height: 19px;
-    letter-spacing: 2.7px;
-    text-transform: uppercase;
-}
-
-.content__title b {
-    font-weight: 700;
-    letter-spacing: 2.7px;
-    opacity: 0.25;
-    padding-right: 1rem;
-}
-
 .container__img {
-    position: relative;
-    left: -1.5rem;
-    width: 100vw;
-    height: 170px;
-    margin: 2rem 0;
     background-image: url(../../img/technology/image-launch-vehicle-landscape-p.jpg);
-    background-position: center center;
 }
 
-.container__btns {
-    display: flex;
-    height: 3.75rem;
-    justify-content: center;
-    padding: 0;
+@media screen and (min-width: 376px) {
+    .container__img {
+        background-image: url(../../img/technology/image-launch-vehicle-landscape.jpg);
+    }
 }
 
-.container__btns li {
-    list-style: none;
-}
-
-.content__btn {
-    width: 40px;
-    height: 40px;
-    border-radius: 100%;
-    border: 1px solid rgba(255, 255, 255, 0.25);
-    background-color: transparent;
-    color: #fff;
-}
-
-#btn {
-    margin: 0 1rem;
-}
-
-.content__btn:active {
-    background-color: #fff;
-    color: #000;
-}
-
-.content__btn:hover {
-    border: 1px solid #fff;
-}
-
-.content__subtitle {
-    font-family: 'Barlow Condensed';
-    font-style: normal;
-    font-weight: 400;
-    font-size: 14px;
-    line-height: 17px;
-    text-align: center;
-    text-transform: uppercase;
-    letter-spacing: 2.3625px;
-    color: #D0D6F9;
-    margin: 1.125rem 0 .5rem 0;
-}
-
-.content__name {
-    font-family: 'Bellefair';
-    font-weight: 400;
-    font-size: 24px;
-    line-height: 28px;
-    text-align: center;
-    text-transform: uppercase;
-    margin: 0;
-}
-
-.content__text {
-    font-family: 'Barlow';
-    font-weight: 400;
-    font-size: 15px;
-    line-height: 25px;
-    text-align: center;
-    margin: .9rem 0 1.3rem 0;
-    color: #D0D6F9;
+@media screen and (min-width: 790px) {
+    .container__img {
+        background-image: url(../../img/technology/image-launch-vehicle-portrait.jpg);
+    }
+    
 }
