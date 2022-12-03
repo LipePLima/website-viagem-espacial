@@ -74,7 +74,19 @@ Uma empresa(fictícia) de turismo espacial, me desafiou a fazer um website sobre
 
 <h3> :camera: Página inicial </h3>
 
- ![Status: em desenvolvimento](https://img.shields.io/badge/STATUS-Em%20desenvolvimento-blue)
+ ![Home](https://user-images.githubusercontent.com/102830741/205418590-8fba6ff3-53ce-4615-b5d3-ce7209268e1c.png)
+
+<h3> :camera: Página Destinos </h3>
+
+ ![destinos](https://user-images.githubusercontent.com/102830741/205418603-91fbe66a-b9d4-4c12-8513-90f9c50d19ce.png)
+ 
+<h3> :camera: Página Equipe </h3>
+
+ ![equipe](https://user-images.githubusercontent.com/102830741/205418636-11ad95a4-87c7-42a4-aa76-8199a59e13b9.png)
+
+<h3> :camera: Página Tecnologias </h3>
+
+ ![tecnologias](https://user-images.githubusercontent.com/102830741/205418662-5492eb4a-4ab0-4d22-84cd-e3d27119ea05.png)
 
 ## Depoimento
 
