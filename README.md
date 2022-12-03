@@ -2,11 +2,11 @@
 
 ## Descrição
 
-![Status: em desenvolvimento](https://img.shields.io/badge/STATUS-Em%20desenvolvimento-blue)
+Uma empresa(fictícia) de turismo espacial, me desafiou a fazer um website sobre seu produto. Como não recusamos desafio, ele foi aceito! Me enviaram o figma com todos os layouts necessário para começar a pôr a mão na massa. Nele você encontrará páginas sobre os destinos, equipe e a tecnologia utilizada para te levar até o seu destino de desejo! Você finalmente poderá conhecer o universo e alguns dos corpos celestes do nosso magnífico Sistema Solar!
 
 ## Etapas
 
- ![Status: em desenvolvimento](https://img.shields.io/badge/STATUS-Em%20desenvolvimento-blue)
+ ![Status: desenvolvido](https://img.shields.io/badge/STATUS-Desenvolvido-success)
 
  - Layout mobile:
     - [x] Página inicial;
@@ -66,6 +66,10 @@
 
  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
 
+ Hospedagem:
+
+ ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+
 ## Imagens
 
 <h3> :camera: Página inicial </h3>
@@ -74,7 +78,9 @@
 
 ## Depoimento
 
-![Status: em desenvolvimento](https://img.shields.io/badge/STATUS-Em%20desenvolvimento-blue)
+Projeto finalmente pronto! Esse foi sugado, mas a cada barreira encontrada, um sorriso no rosto com a consciência de que eu poderia aprender mais! A responsividade foi o que mais consumiu meus dias nesta semana, mas o que mais me surpreendeu foi conseguir otimizar o projeto de modo que eu consiga manipular o conteúdo da página de acordo com cada botão clicado! Pude manipular arquivo JSON e jogar seu conteúdo nas páginas, foi fantástido o resultado! Estou satisfeito demais com este projeto, se tornou meu xodozinho e espero que gostem também!!! 
+
+OBS: Pretendo adicionar Swiper na página de Equipe, acredito que vai ficar bem legal.
 
 ## Contato | Redes Sociais
 
