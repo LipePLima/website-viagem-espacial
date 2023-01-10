@@ -74,7 +74,7 @@ Uma empresa(fictícia) de turismo espacial, me desafiou a fazer um website sobre
 
 <h3> :camera: Página inicial </h3>
 
- ![Home](https://user-images.githubusercontent.com/102830741/205418590-8fba6ff3-53ce-4615-b5d3-ce7209268e1c.png)
+ ![Home](https://user-images.githubusercontent.com/102830741/205418590-8fba6ff3-53ce-4615-b5d3-ce7209268e1c.png#vitrinedev)
 
 <h3> :camera: Página Destinos </h3>
 
